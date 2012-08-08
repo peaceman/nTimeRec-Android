@@ -14,3 +14,9 @@ gen/
 
 # Local configuration file (sdk path, etc)
 local.properties
+
+# subversion folders
+.svn/
+
+# osx metadata
+.DS_Store
